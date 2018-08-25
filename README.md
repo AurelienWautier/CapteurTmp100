@@ -14,7 +14,7 @@ You will need these followings:
 
 ### 1. Hardware setup
 
-Firtly you will need to connect the LCD screen and the temperature sensor in parallel on the i2c bus of the ESP8266.
+Firstly you will need to connect the LCD screen and the temperature sensor in parallel on the i2c bus of the ESP8266.
 To do that, use the following pins : 
 
 - D1 : SCL for the clock
